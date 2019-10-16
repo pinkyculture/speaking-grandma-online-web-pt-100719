@@ -4,8 +4,8 @@ speak_to_grandma (statement)
 if "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
 
-elsif statement.downcase
-puts "HUH?! SPEAK UP, SONNY!"
+elsif statement.downcase == "HUH?! SPEAK UP, SONNY!"
+
 
 else statement.upcase
   puts "NO, NOT SINCE 1938!"
