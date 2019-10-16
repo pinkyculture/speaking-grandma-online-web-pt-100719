@@ -8,7 +8,8 @@ elsif statement == statement.upcase
   return "NO, NOT SINCE 1938!"
 
 
-else 
+else statement == statement.downcase 
+return "HUH?! SPEAK UP, SONNY!"
   end
 end
 
