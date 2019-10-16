@@ -7,8 +7,8 @@ if "I LOVE YOU GRANDMA!"
 elsif statement.downcase == "HUH?! SPEAK UP, SONNY!"
 
 
-else statement.upcase
-  puts "NO, NOT SINCE 1938!"
+else statement.upcase == "HUH?! SPEAK UP, SONNY!"
+  
   end
 end
 
