@@ -2,14 +2,14 @@
 
 def speak_to_grandma (statement)
 if statement == "I LOVE YOU GRANDMA!" 
-  puts "I LOVE YOU TOO PUMPKIN!"
+  return "I LOVE YOU TOO PUMPKIN!"
 
 elsif statement == statement.downcase 
-puts "HUH?! SPEAK UP, SONNY!"
+return "HUH?! SPEAK UP, SONNY!"
 
 
 elsif statement == statement.upcase 
-  puts "NO, NOT SINCE 1938!"
+  return "NO, NOT SINCE 1938!"
   
   end
 end
