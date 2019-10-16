@@ -1,6 +1,6 @@
 # Write a speak_to_grandma method.
 
-speak_to_grandma (statement)
+def speak_to_grandma (statement)
 if "I LOVE YOU GRANDMA!" == "I LOVE YOU TOO PUMPKIN!"
 
 elsif statement.downcase == "HUH?! SPEAK UP, SONNY!"
