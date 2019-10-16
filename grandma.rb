@@ -6,7 +6,7 @@ if "I LOVE YOU GRANDMA!" == "I LOVE YOU TOO PUMPKIN!"
 elsif statement.downcase == "HUH?! SPEAK UP, SONNY!"
 
 
-else statement.upcase == "HUH?! SPEAK UP, SONNY!"
+else statement.upcase == ""
   
   end
 
